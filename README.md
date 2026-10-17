@@ -1,0 +1,2 @@
+# Renormalization-group-equations-their-fixed-points-and-their-stability.-
+This notebook explores selected renormalization-group equations for interacting topological systems. It visualizes two-coupling flows and analyzes fixed points and their stability for two- and three-coupling cases, including expansions through order (1/N_c) and (epsilon^2). These calculations support the paper’s study of quantum critical behavior.
