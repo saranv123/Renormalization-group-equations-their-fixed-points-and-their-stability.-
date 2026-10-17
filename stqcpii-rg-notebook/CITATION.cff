@@ -1,0 +1,18 @@
+# See https://citation-file-format.github.io/
+cff-version: 1.2.0
+message: >-
+  If you use this notebook package, please cite the associated paper.
+title: 'Surface topological quantum criticality II: Conformal manifolds, isolated fixed points, and entanglement'
+authors:
+  - family-names: Vijayan
+    given-names: Saran
+  - family-names: Zhou
+    given-names: Fei
+date-released: 2026-01-21
+type: article
+journal: Physical Review B
+volume: '113'
+issue: '4'
+pages: '045134'
+doi: 10.1103/z7zr-577m
+url: 'https://doi.org/10.1103/z7zr-577m'
